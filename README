@@ -1,0 +1,4 @@
+cd
+ln -sf workenv/vimrc .vimrc
+ln -sf workenv/.vim  .vim
+ln -sf workenv/index.py .index.py

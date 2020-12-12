@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sbc/xiaomi/rtl/core/models/rams/generic'
+let g:netrw_dirhist_2='/home/sbc/dms/rtl/vfu'
+let g:netrw_dirhist_3='/home/sbc/dms/ift/result_allerror'
+let g:netrw_dirhist_4='/Users/bingcaisui/workenv/.vim/mysnippets'
+let g:netrw_dirhist_5='/home/tanrui/darknet'
